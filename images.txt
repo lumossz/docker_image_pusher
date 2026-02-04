@@ -34,4 +34,5 @@
 #ubuntu:20.04
 #ctftraining/base_image_nginx_mysql_php_56
 #ctftraining/base_image_nginx_mysql_php_73
-zhl2008/web_14.04
+#zhl2008/web_14.04
+chenaotian/cve-2021-4034:latest
