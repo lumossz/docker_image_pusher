@@ -39,5 +39,6 @@
 #ctftraining/base_image_nginx_mysql_php_73
 #zhl2008/web_14.04
 #chenaotian/cve-2021-4034:latest
-nopdebugman/ubt1604-for-pwn:latest
+#nopdebugman/ubt1604-for-pwn:latest
 #nopdebugman/ubt20-for-pwn:latest
+baconspider/cve-2021-4034:latest
