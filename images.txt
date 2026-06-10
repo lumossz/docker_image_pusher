@@ -41,4 +41,6 @@
 #chenaotian/cve-2021-4034:latest
 #nopdebugman/ubt1604-for-pwn:latest
 #nopdebugman/ubt20-for-pwn:latest
-baconspider/cve-2021-4034:latest
+#baconspider/cve-2021-4034:latest
+hello-world:latest
+busybox:latest
