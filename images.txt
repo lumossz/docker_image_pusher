@@ -42,5 +42,8 @@
 #nopdebugman/ubt1604-for-pwn:latest
 #nopdebugman/ubt20-for-pwn:latest
 #baconspider/cve-2021-4034:latest
-hello-world:latest
-busybox:latest
+#hello-world:latest
+#busybox:latest
+falcosecurity/falco-driver-loader:0.44.1
+falcosecurity/falcoctl:0.13.0
+falcosecurity/falco:0.44.1
